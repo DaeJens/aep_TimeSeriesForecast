@@ -2,7 +2,7 @@
 ### Overview
 This project implements predictive analysis algorithms to forecast energy consumption patterns. By using historical hourly energy consumption data, the model predicts future energy usage in order to help with grid management and resource planning.
 ### Project Goals
-- ***Primary Objective***: Develop and accurate time-series forecasting model for hourly energy consumption.
+- ***Primary Objective***: Develop an accurate time-series forecasting model for hourly energy consumption.
 - ***Business Objective***: Enable better energy resource planning and grid management for power companies.
 - ***Technical Objective***: Utilize predictive modeling to handle complex temporal patterns in energy usage.
 
